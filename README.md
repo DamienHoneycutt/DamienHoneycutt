@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damien Honeycutt
+- 👋 Hi, I’m Damien
 - 👀 I’m interested in learning how to do coding as a career option
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on TBD
